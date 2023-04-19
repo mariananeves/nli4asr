@@ -1,0 +1,79 @@
+{
+
+"0000305": {    
+	"Label": "Contradiction",
+	"Statement": "The experiment will be carried out on mice.",
+   	"Sentences": [
+       	"We will train pigeons in a plus-shaped arena.",
+		"Utilizing an ABA-renewal procedure, the animals first learn that the response to one cue-stimulus leads to a reward while the response to another stimulus is unrewarded.",
+		"This initial learning takes place in context A. The animals then undergo extinction learning in context B where a response to the initially rewarded stimulus will not result in a reward.",
+		"After the animals show extinction (i.e., they ceased to produce conditioned responses to the cue-stimulus) the animals are again transferred back into context A.",
+		"Context A* will be identical to context A in two out of three (experiment 1), or one out of two (experiments 2 and 3), contextual dimensions.",
+		"The critical test is now in how far the extinction is sensitive to different dimensions of context by assessing response-renewal. The cue-stimuli will always be presented on small touchscreens."
+		],
+	"DOI": "https://www.animalstudyregistry.org/10.17590/asr.0000305"
+},
+
+"0000279": {
+	"Label": "Entailment",
+	"Statement": "Different types of cages will be used for the experiments.",
+   	"Sentences": [
+       	"The animals will arrive from the commercial vendor (Janvier) at the age of 4 weeks and upon arrival will be assigned to the groups in the Individually Ventilated Cage System (Tecniplast): standard cage (Tecniplast Greenline GM500); enriched cage (Tecniplast Greenline GR900); standard cage with intermittent transfer (2x / week) to enriched cage.",
+		"For 8 weeks, the animals will be monitored in their cages with weekly body weight measurements and assessment of general appearance (body condition, fur, aggression, grooming / barbering).",
+		"When the animals are 12 weeks old, behavioural testing will be caried out - light-dark test, open field with novel object, sociability, marble burrowing, time to integrate to nest, classical fear conditioning.",
+		"Thereafter, the animals will be euthanized."
+   	],
+	"DOI": "https://www.animalstudyregistry.org/10.17590/asr.0000279"
+},
+
+"0000234": {
+	"Label": "Contradiction",
+	"Statement": "The female animals will only be inseminated with an Y-sorted semen.",
+   	"Sentences": [
+       	"Forty dairy cows will be bred with sex-sorted semen at Purdue’s ASREC farm (randomly assigned male sorted semen, n=20; and female sorted semen, n=20). ",
+		"Calf sex will be verified using ultrasound at approximately 50 days after breeding.",
+		"Sixty days before expected calving, we will stop milking the dams and ~3 weeks before calving intravenous glucose tolerance test (IVGTT) will be performed to evaluate insulin resistance and glucose management.",
+		"Experimental cows will be inseminated following the protocols established at the dairy research center.",
+		"Briefly, around day 40 after calving, the animals that are eligible to be bred will begin an estrous synchronization program to synchronize their estrus and ovulation.",
+		"Cows will be inseminated with either X- or Y-sorted semen (Sexing Technologies) from a single bull based on timing of anticipated ovulation from the timed-AI synchronization program.",
+		"Pregnancy will be confirmed ~28 days after insemination.",
+		"If the cow is positive for pregnancy, then on day ~50 of pregnancy, ultrasonography will be performed to confirm the sex of the offspring.",
+		"The sex of the fetus and day of the ultrasound will be recorded in the ultrasound form and kept at the farm office.",
+		"If the cow is negative for pregnancy, then the cycle of synchronization will start once again, and the new insemination will be performed ~10 days after initiation of synchronization protocol with the same sex of semen as the first attempt.",
+		"Each cow will have a maximum of two inseminations attempts, and if the second insemination fails, then follow-up measurements will not be taken on that cow.",
+		"All the cows enrolled in this study will be followed during the months of pregnancy up to the time of performing the IVGTT.",
+		"Daily milk production, free stall pen location and pathologies will be collected from the AfiFarm System.",
+		"Once a month, animals will be weighed and body condition scores (BCS) recorded after morning milking in order to assess changes in body condition and size.",
+		"AfiFarm is an electronic data capture system used by the farm which allows downloads of all the data in .xlsx or .csv formats."
+   	],
+	"DOI": "https://www.animalstudyregistry.org/10.17590/asr.0000234"
+},
+
+"0000224": {
+	"Label": "Contradiction",
+	"Statement": "The mice will be studied using a brain-implanted transmitter.",
+   	"Sentences": [
+       	"For the purpose of testing for SIH we are going to compare two strains of mice: C57BL/6, the most common used inbreed strain, and Balb/c which show spontaneously elevated anxiety (Belzung and Griebel 2001, PII: S0166-4328(01)00291-1).",
+		"This study will follow a 2x2x2x2 factorial design, with handling method (tail-picking vs. tunnel handling), strain (Balb/c vs. C57BL/6), sex (male vs. female), and drug treatment administered prior to EPM (anxiolytic vs. vehicle) being the fixed factors.",
+		"A total of 64 animals were deemed necessary, which will be divided into four cohorts of 16 animals (each cohort being a block, analysed as a random factor).",
+		"Animals will be randomly assigned to one of the experimental groups.",
+		"Mice will be housed in single-sex and single-strain pairs.",
+		"Both animals within the same group will be handled with the same handling technique, since alarm calls between cage mates might have a relevant impact, thus making the possibility of assigning different handling methods within the same cage unviable.",
+		"On day 1, six-week old mice will be subcutaneously implanted with thermosensitive PIT-tags in the dorsal area, under brief (< 5 minutes) Isoflurane anaesthesia.",
+		"Also on day 1, acrylic amber-tainted tunnels will be added to all cages.",
+		"To ensure recovery from anaesthesia and habituation to the added tunnel, animals will be left undisturbed for the following 6 days.",
+		"From days 8 to 12 animals will be handled by their assigned handling method twice a day: one during the light period and again during the dark period.",
+		"On day 13, all mice will undergo the voluntary interaction test, and on day 14 animals will be left undisturbed.",
+		"From days 15 to 19, animals will again be handled twice daily, by the same protocol.",
+		"On day 20, animals will again undergo the voluntary interaction test in the morning (corresponding to the light period, in our facility) and be subjected to the elevated plus maze test in the afternoon (dark period).",
+		"30 min prior to EPM, animals randomly assigned to receive anxiolytic will be intraperitoneally injected with 1.5 mg/Kg diazepam (sufficient to induce significant differences in distance travelled and time spent in open arms, Hagenbuch et al 2006 DOI: 10.1097/01.fbp.0000189811.77049.3e), while the vehicle group will be injected with saline.",
+		"Thermal images will be collected during handling session as well as concomitantly with behavioural tests."
+   	],
+	"DOI": "https://www.animalstudyregistry.org/10.17590/asr.0000224"
+}
+
+}
+
+
+
+
